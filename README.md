@@ -225,4 +225,124 @@ paket pada function ini saya menggunakan .pop.
 ### B. Program role user 
 
 
-jdisja
+**1. Login user**
+
+
+
+![Screenshot 2024-10-14 230251](https://github.com/user-attachments/assets/34931881-022d-4a1f-9a45-e0ac972c6c88)
+
+
+
+pada kode diatas ada input jika user memilih 1 (user) dan harus melewati percabangan untuk login
+jika user sudah berhasil login maka akan disambut oleh
+print(f"Halo, Selamat datang {LogUu}")
+print("Silahkan pilih paket Hosting Server yang anda inginkan")
+
+
+
+**2. output menu***
+
+
+![Screenshot 2024-10-14 230622](https://github.com/user-attachments/assets/73be789b-09fa-4c94-ac7d-07935382b7f7)
+
+
+
+pada kode diatas akan memunculkan output berupa paket-paket hosting dan dapat dibeli oleh user itu sendiri.
+
+
+
+
+**3. input untuk memilih paket di menu**
+
+
+![Screenshot 2024-10-14 230842](https://github.com/user-attachments/assets/e4bf2990-737e-45df-a1c5-59d835a21424)
+
+
+
+pada kode ini hanya terdapat input yang berguna untuk percabangan selanjutnya
+
+
+
+**4. Percabangan 1**
+
+
+![Screenshot 2024-10-14 231037](https://github.com/user-attachments/assets/c5ecf58b-d9c7-4d3d-8963-bbd124b197b6)
+
+
+
+pada kode percabangan 1 ini adalah percabangan bagi user yang memilih untuk
+membeli paket 1 pada menu paket hosting
+
+
+
+**5. Percabangan 2**
+
+
+![Screenshot 2024-10-14 231221](https://github.com/user-attachments/assets/9ac57463-8ca2-420d-b3b6-880dda8622a7)
+
+
+pada kode percabangan 2 ini sama saja dengan kode percabangan 1, berguna bagi user
+yang memilih untuk membeli percabangan 2 pada menu paket hosting
+
+
+**6. Percabangan 3**
+
+
+![Screenshot 2024-10-14 231340](https://github.com/user-attachments/assets/deb93f89-7080-465f-a373-cbfab906cee3)
+
+
+pada kode percabangan 3 ini digunakan untuk user yang membeli paket 3 pada menu paket hosting
+
+
+**7. Percabangan 4**
+
+
+![Screenshot 2024-10-14 231713](https://github.com/user-attachments/assets/67906e0d-cf42-4202-84be-2f403bc896ab)
+
+
+pada percabangan 4 ini digunakan sebagai program untuk user yang akan membeli paket 4 pada
+menu paket hosting
+
+**8. Percabangan 5**
+
+
+![Screenshot 2024-10-14 231850](https://github.com/user-attachments/assets/12690fe7-2f70-4607-bacc-e98e2a781ace)
+
+
+pada percabangan 5 ini digunakan sebagai program untuk user yang akan membeli paket 5 pada
+menu pakety hosting.
+
+
+
+### C. Program Role Admin
+
+
+**1. Login admin**
+
+
+![image](https://github.com/user-attachments/assets/b37057cf-577b-4ff5-8e55-f53e2d569e11)
+
+
+
+program untuk login admin, sama dengan program dengan login usser, namun memiliki
+beda username dan password, dan setelah login maka admin akan disambut
+
+
+
+
+**2. percabangan admin**
+
+
+
+![image](https://github.com/user-attachments/assets/f3a9b607-bd9d-4a2c-b3f9-a9b156d1dec6)
+
+
+
+pada percabangan admin tidak sepanjang percabangan user, namun percabangan admin
+lebih kompleks pada bagian functionnya saja.
+
+---
+
+
+# sekian tugas dari saya, terimakasih.
+
