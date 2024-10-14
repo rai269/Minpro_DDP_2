@@ -110,7 +110,7 @@ berhenti.
 dapat dilihat pada flowchar ada 4 warna potal diantaranya adalah
 
 
-**1. Warna merah
+**1. Warna merah**
 
 
    Warna merah sendiri merujuk pada portal yang akan membawa
@@ -119,7 +119,7 @@ program kembali ke halaman login diawal.
 
 
 
-**2. Warna Hijau
+**2. Warna Hijau**
 
 
    Warna Hijau sendiri adalah portal untuk menuju sebuah output
@@ -128,7 +128,7 @@ menuju ke portal merah yang akan kembali ke halaman login di awal
 
 
 
- **3. Warna biru tua
+ **3. Warna biru tua**
 
 
    Warna biru muda sendiri adalah portal untuk menuju
@@ -137,7 +137,7 @@ dan portal ini adalah portal menuju selesainya program.
 
 
 
-**4. Warna ungu
+**4. Warna ungu**
 
 
    Warna ungu adalah warna yang digunakan untuk
@@ -145,6 +145,6 @@ menuju ke program Selesai tanpa ada output.
 
 
 
-
+---
 
 ## 2. Program Coding
