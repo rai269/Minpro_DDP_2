@@ -3,6 +3,7 @@
 
 ## 1. Flowchart
 
+
 ### ![Flowchart_Minpro2(Revisi) drawio](https://github.com/user-attachments/assets/7c390df9-7d47-422e-88f4-f3bb97b4a484)
 
 
@@ -148,3 +149,59 @@ menuju ke program Selesai tanpa ada output.
 ---
 
 ## 2. Program Coding
+
+
+
+### A. Function 
+
+
+ada 5 fuction yang saya gunakan pada kode saya diantaranya adalah
+
+
+
+**1. tampilPaket**
+
+
+![Screenshot 2024-10-14 223534](https://github.com/user-attachments/assets/809bc286-5ac0-45f7-943e-6549eec2d775)
+
+
+
+pada kode tampilPaket adalah salah satu function untuk CRUD admin, untuk variabel nomor adalah
+variabel yang meruju pada index, dimana index akan dimulai dari anka 1, bukan 0 dan variabel paket
+digunakan sebagai pematok atau patokan untuk table field atau penamaan dari isi tabel.
+
+
+
+**2. khususAtmint**
+
+
+![Screenshot 2024-10-14 224048](https://github.com/user-attachments/assets/c17b0a4c-1234-44b3-84f4-384ace7b170d)
+
+
+
+function yang berfungsi sebagai tempat untuk memunculkan menu yang akan dilihat oleh
+admin, return berfungsi untuk mengembalikan nilai yang akan dipilih admin nantinya
+
+
+**3. tambahPaket**
+
+
+![Screenshot 2024-10-14 224217](https://github.com/user-attachments/assets/46111049-377a-40e7-beb6-c448e5daddf3)
+
+
+
+
+function yang berfungsi untuk CRUD admin yaitu create, berfungsi untuk menambahkan paket, paket
+ditambahkan dengan cara menggunakan .append
+
+
+**4. updatePaket**
+
+
+![Screenshot 2024-10-14 224724](https://github.com/user-attachments/assets/da3900ef-7576-4027-ba5a-4da27e0fe497)
+
+
+
+function ini juga merupakan salah satu function yang digunakan untuk CRUD, - 1 pada akhir
+variabel nomor digunakan sebagai pengurangan, yaitu saat ada yang ingin diganti, maka nilainya akan berkurang
+
