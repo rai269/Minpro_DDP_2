@@ -103,7 +103,7 @@ berhenti.
 
 
 
-### Portal pada flowchart
+### C. Portal pada flowchart
 
 
 
@@ -141,3 +141,9 @@ dan portal ini adalah portal menuju selesainya program.
 
       Warna ungu adalah warna yang digunakan untuk
 menuju ke program Selesai tanpa ada output.
+
+
+
+
+
+## 2. Program Coding
