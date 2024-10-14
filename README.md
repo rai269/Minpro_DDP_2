@@ -3,7 +3,7 @@
 
 ## Flowchart
 
-### ![Flowchart_Minpro2](https://github.com/user-attachments/assets/b6a1e31a-71a6-43ac-bb06-0877d5b6bef7)
+### ![Flowchart_Minpro2(Revisi) drawio](https://github.com/user-attachments/assets/7c390df9-7d47-422e-88f4-f3bb97b4a484)
 
 
 
@@ -89,4 +89,54 @@ dengan paket yang baru.
 
 jika user memilih pilihan 4, yaitu delete paket, menu ini user
 bisa menghapus paket yang ada di menu, pertama user akan mendapatkan
-output dari menu, dan akan memilih untuk 
+output dari menu, dan akan memilih untuk memasukkan nomor mana yang
+mau dihapus, setelah itu maka user admin akan mendapatkan output
+"paket (nama paket) telah dihapus".
+
+
+
+
+jika user memilih pilihan 5, yaitu keluar, menu ini sangat super
+duper simpel, saat user admin memilih ini, maka pemrograman akan
+berhenti.
+
+
+
+
+### Portal pada flowchart
+
+
+
+dapat dilihat pada flowchar ada 4 warna potal diantaranya adalah
+
+
+1. Warna merah
+
+
+   Warna merah sendiri merujuk pada portal yang akan membawa
+program kembali ke halaman login diawal.
+
+
+
+2. Warna Hijau
+
+
+   Warna Hijau sendiri adalah portal untuk menuju sebuah output
+"Mohon isi data diri anda dengan benar.".
+
+
+
+ 3. Warna biru tua
+
+
+    Warna biru muda sendiri adalah portal untuk menuju
+output akhir saat user berhasil membeli sebuah hosting
+dan portal ini adalah portal menuju selesainya program.
+
+
+
+4. Warna ungu
+
+
+      Warna ungu adalah warna yang digunakan untuk
+menuju ke program Selesai tanpa ada output.
