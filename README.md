@@ -50,4 +50,43 @@ web anda telah berhasil terbuat, terimakasih telah mempercayai kami!".
 
 
 
-pepek
+Pada saat user memilih menggunakan role admin, maka user harus
+memasukkan username dan password yang benar, jika salah maka
+user akan mengulang kembali ke halaman login, namun jika user
+benar, maka user akan mendapatkan output "Selamat datang atmint
+login berhasil, silahkan pilih menu." pada saat login user admin
+akan mendapatkan menu dan user admin dapat memilih pilihan yang 
+ada dalam menu.
+
+
+
+jika user memilih pilihan 1, yaitu tambah paket, maka user admin
+dapat memasukkan nama dari paket hosting, jangka waktu hosting
+dan harga hosting, setelah menentukan semuanya, maka akan di
+cek ulang oleh program, apakah input sesuai dengan tipe data
+yang diminta, jika tidak sesauai, maka akan kembali ke halaman
+login, namun jika sesuai maka paket hosting akan tertambahkan
+ke menu admin.
+
+
+
+jika user memilih pilihan 2, yaitu tampilkan paket, pada menu ini
+terkesab simpel, karena program hanya akan menunjukan paket paket
+hosting yang ada di program.
+
+
+
+
+jika user memilih pilihan 3, yaitu update paket, pada menu ini
+user akan mendapatkan output menu paket, dan disuruh memilih
+paket mana yang akan diupdate, jika sudah memilih, maka user
+akan menginiput nama paket yang baru, setelah itu maka user
+akan mendapatkan output bahwasannya paket yang lama telah diganti
+dengan paket yang baru.
+
+
+
+
+jika user memilih pilihan 4, yaitu delete paket, menu ini user
+bisa menghapus paket yang ada di menu, pertama user akan mendapatkan
+output dari menu, dan akan memilih untuk 
