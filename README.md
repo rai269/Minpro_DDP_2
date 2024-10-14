@@ -204,4 +204,25 @@ ditambahkan dengan cara menggunakan .append
 
 function ini juga merupakan salah satu function yang digunakan untuk CRUD, - 1 pada akhir
 variabel nomor digunakan sebagai pengurangan, yaitu saat ada yang ingin diganti, maka nilainya akan berkurang
+dan variabel nomor yang digunakan adalah dari variabel nomor yang digunakan sebelumnya sebagai pengganti
+index.
 
+
+**5. deletePaket**
+
+
+![Screenshot 2024-10-14 225209](https://github.com/user-attachments/assets/db3a0aad-9c70-4b01-a7d2-2359e68f60be)
+
+
+
+function ini digunakan untuk menghapus paket yang ada dalam paketHosting, untuk menghapus
+paket pada function ini saya menggunakan .pop.
+
+
+
+
+
+### B. Program role user 
+
+
+jdisja
