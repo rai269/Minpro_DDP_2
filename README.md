@@ -1,7 +1,7 @@
 # Minpro_DDP_2
 # membuat web untuk jasa sewa server
 
-## Flowchart
+## 1. Flowchart
 
 ### ![Flowchart_Minpro2(Revisi) drawio](https://github.com/user-attachments/assets/7c390df9-7d47-422e-88f4-f3bb97b4a484)
 
@@ -12,7 +12,7 @@ lalu user akan memilih role, mau login sebagai admin atau user
 untuk username dan password pastinya akan berbeda.
 
 
-### Role User
+### A. Role User
 
 
 
@@ -46,7 +46,7 @@ web anda telah berhasil terbuat, terimakasih telah mempercayai kami!".
 
 
 
-### Role Admin
+### B. Role Admin
 
 
 
@@ -122,11 +122,12 @@ program kembali ke halaman login diawal.
 
 
    Warna Hijau sendiri adalah portal untuk menuju sebuah output
-"Mohon isi data diri anda dengan benar.".
+"Mohon isi data diri anda dengan benar." dan outputnya akan
+menuju ke portal merah yang akan kembali ke halaman login di awal
 
 
 
- 3. Warna biru tua
+ 4. Warna biru tua
 
 
     Warna biru muda sendiri adalah portal untuk menuju
@@ -135,7 +136,7 @@ dan portal ini adalah portal menuju selesainya program.
 
 
 
-4. Warna ungu
+5. Warna ungu
 
 
       Warna ungu adalah warna yang digunakan untuk
